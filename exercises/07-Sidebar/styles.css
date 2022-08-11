@@ -3,8 +3,8 @@
 	display: flex;
 }
 #sidebar {
-	background: blue;
+	background: grey;
 }
 #content {
-	background: yellow;
+	background: green;
 }
