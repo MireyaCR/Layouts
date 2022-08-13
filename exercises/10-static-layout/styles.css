@@ -1,4 +1,21 @@
 /* your code here */
+.wrapper {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	padding: 20px;
+}
+
+nav {
+	width: 30%;
+	position: absolute;
+}
+
+section {
+	width: 67%;
+	left: 32%;
+	position: absolute;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
